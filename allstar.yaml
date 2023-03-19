@@ -1,0 +1,4 @@
+optConfig:
+  optOutStrategy: true
+issueLabel: allstar-acme
+issueFooter: Issue created by Acme security team.
